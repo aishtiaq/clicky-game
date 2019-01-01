@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "assets/bugsbunny.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "img": "assets/char1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "img": "assets/daffy.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "img": "assets/ElmerFudd.gif",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "img": "assets/lola.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "img": "assets/Petunia_Pig.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "img": "assets/Porky_Pig.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "img": "assets/Speedy_Gonzales.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "img": "assets/sam.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "img": "assets/sylvester.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "img": "assets/taz.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "img": "assets/tweety.jpg",
+        "clicked": false
+    }
+]
