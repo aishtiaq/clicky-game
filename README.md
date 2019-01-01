@@ -6,4 +6,4 @@ To run:
 yarn install
 yarn start
 
-A demo can be viewed here: [https://ai-clickygame.herokuapp.com]
+A demo can be viewed here: [https://ai-clickygame.herokuapp.com] or here [https://aishtiaq.github.io/clicky-game/]
